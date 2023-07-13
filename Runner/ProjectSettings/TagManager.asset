@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - GameOver
+  - GetFruit
+  - Score1
+  - Score2
+  - Score3
   layers:
   - Default
   - TransparentFX
